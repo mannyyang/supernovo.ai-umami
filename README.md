@@ -3,6 +3,7 @@
 Umami is a simple, fast, privacy-focused alternative to Google Analytics. 
 Using this as a way to compare analytics against google analytics for supernovo.ai.
 
+
 ## Getting started
 
 A detailed getting started guide can be found at [https://umami.is/docs/](https://umami.is/docs/)
